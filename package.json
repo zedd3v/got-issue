@@ -1,0 +1,14 @@
+{
+  "name": "got-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.2"
+  }
+}
